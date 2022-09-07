@@ -10,3 +10,7 @@ print(mi_complejo)
 
 mi_numero = input('Ingrese un valor')
 print('el valor ingresado fue', mi_numero)
+
+mi_lista= ['bogota','cali']
+print(mi_lista)
+
